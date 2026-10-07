@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #007bff;
+    margin-top: 25px;
+}
+
+.profile-img {
+    width: 250px;
+    height: 250px;
+    border: 5px solid #007bff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px gray;
+}
+
+.card {
+    margin: 25px 0;
+    padding: 10px;
+    border: 2px solid #007bff;
+    box-shadow: 0 3px 6px gray;
+}
